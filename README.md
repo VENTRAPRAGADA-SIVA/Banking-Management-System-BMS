@@ -105,10 +105,3 @@ erDiagram
 - Docker
 
 
-## Contributing
-Contributions to the Bank Management System project are welcome! If you'd like to contribute:
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Commit your changes.
-4. Push the branch.
-5. Open a Pull Request explaining your changes.
